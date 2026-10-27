@@ -1,0 +1,8 @@
+{
+  "appId": "com.cronowod.app",
+  "appName": "Crono WOD",
+  "webDir": "www",
+  "backgroundColor": "#0f1214",
+  "ios": { "contentInset": "never" },
+  "android": { "backgroundColor": "#0f1214" }
+}
